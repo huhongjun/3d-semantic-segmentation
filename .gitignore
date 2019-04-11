@@ -17,3 +17,5 @@ logs/
 experiments/*
 !experiments/iccvw_paper_2017/
 *.out
+/.vscode
+/dataset
